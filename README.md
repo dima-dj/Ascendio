@@ -33,30 +33,6 @@ Collect golden snitch letters in the correct order to complete each spell while 
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.8+ installed on your system
-
-### Installation
-1. **Clone or download the repository**:
-```bash
-git clone https://github.com/YOUR_USERNAME/Ascendio.git
-cd Ascendio
-Install Required Dependencies
-bash
-pip install pygame opencv-python mediapipe
-Or use the requirements file:
-bash
-pip install -r requirements.txt
-Run the Game
-bash
-python main.py
- Dependencies
-pygame (2.0+) - Game engine and graphics
-opencv-python (4.5+) - Webcam capture for hand detection
-mediapipe (0.8+) - Hand tracking and gesture recognition
-
 
 ## 🎯 How to Play
 
